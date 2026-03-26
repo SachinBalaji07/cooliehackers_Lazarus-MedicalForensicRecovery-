@@ -1,0 +1,5 @@
+{
+  "name": "Project Lazarus — Medical Forensic Recovery Dashboard",
+  "description": "A medical forensic dashboard for recovering patient data, monitoring vitals, and auditing prescriptions using Caesar cipher decryption and vital sign parity logic.",
+  "requestFramePermissions": []
+}
